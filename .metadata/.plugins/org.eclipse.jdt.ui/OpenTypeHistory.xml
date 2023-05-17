@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=04-SpringBoot-DataJPA/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.ineuron.dao{ICoronaVaccineRepo.java[ICoronaVaccineRepo" modifiers="513" timestamp="1681539458037"/>
+    <typeInfo handle="=09-SpringBoot-DataJPA-Custom-Query_Practice/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.ineuron.service{IProductService.java[IProductService" modifiers="513" timestamp="1681662763700"/>
+    <typeInfo handle="=10-SpringBoot-DataJPA-BlobClobApp/C:\/sts-4.17.2.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230125-1136\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/maven.pomderived=/true=/&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1674626944000"/>
+    <typeInfo handle="=10-SpringBoot-DataJPA-BlobClobApp/C:\/Users\/mangesh.dhande\/.m2\/repository\/org\/springframework\/data\/spring-data-commons\/3.0.5\/spring-data-commons-3.0.5.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-commons=/=/maven.version=/3.0.5=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.repository(PagingAndSortingRepository.class[PagingAndSortingRepository" modifiers="1537" timestamp="1682215247494"/>
+    <typeInfo handle="=10-SpringBoot-DataJPA-BlobClobApp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.ineuron.service{IMarriageSeekerMgmt.java[IMarriageSeekerMgmt" modifiers="513" timestamp="1682215915568"/>
+</typeInfoHistroy>

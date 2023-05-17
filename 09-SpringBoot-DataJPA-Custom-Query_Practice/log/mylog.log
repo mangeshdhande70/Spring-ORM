@@ -1,0 +1,20 @@
+2023-04-17 01:28:24.688 [restartedMain] INFO  in.ineuron.Application - Starting Application using Java 17.0.6 on PUNITP539917L with PID 27112 (D:\Spring All\SpringORM\09-SpringBoot-DataJPA-Custom-Query_Practice\target\classes started by mangesh.dhande in D:\Spring All\SpringORM\09-SpringBoot-DataJPA-Custom-Query_Practice)
+2023-04-17 01:28:24.695 [restartedMain] INFO  in.ineuron.Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-17 01:28:24.731 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-17 01:28:25.011 [restartedMain] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-17 01:28:25.045 [restartedMain] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 27 ms. Found 1 JPA repository interfaces.
+2023-04-17 01:28:25.287 [restartedMain] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-04-17 01:28:25.325 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-04-17 01:28:25.425 [restartedMain] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-04-17 01:28:25.496 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-04-17 01:28:25.745 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-04-17 01:28:25.756 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-04-17 01:28:26.173 [restartedMain] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-17 01:28:26.181 [restartedMain] INFO  org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-17 01:28:26.493 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-17 01:28:26.507 [restartedMain] INFO  in.ineuron.Application - Started Application in 2.061 seconds (JVM running for 2.884)
+2023-04-17 01:28:26.553 [restartedMain] INFO  in.ineuron.service.ProductServiceImpl - Product(productId=40, productName=DOLL, price=4650.0, productType=TOYS, quantity=3, brandName=LEVISE) Data Saved in Database
+2023-04-17 01:28:26.553 [restartedMain] INFO  in.ineuron.controller.MyController - Data Saved Successfully
+2023-04-17 01:28:26.559 [SpringApplicationShutdownHook] INFO  org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-17 01:28:26.563 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-04-17 01:28:26.572 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
